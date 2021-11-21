@@ -6,6 +6,10 @@ This library works on top of [Castle Core](https://github.com/castleproject/Core
 
 ## [Nuget](https://www.nuget.org/packages/Intercepted)
 
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://opensource.org/licenses/MIT)
+![Nuget](https://img.shields.io/nuget/v/Intercepted)
+![Nuget](https://img.shields.io/nuget/dt/Intercepted)
+
 ```
 Install-Package Intercepted
 
